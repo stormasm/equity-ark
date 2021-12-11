@@ -13,3 +13,6 @@ The Transparency Index (“the Index”) commenced on June 16th, 2021 following 
 Using an archive back test, the number of transparent companies varied each year beginning in 2016. As such, the monthly returns were calculated for the number of transparent companies available in each year until June 30, 2021. Beginning on July 1, 2021, the monthly returns from the live index were included as part of annual return calculation. As a result of the archive backtest, the number of companies available at the beginning of each year was: 43 companies – 2016, 46 companies –2017, 51 companies – 2018, 64 companies – 2019 , 83 companies – 2020, 100 companies – 2021.
 
 The index methodology does not overweight or underweight any particular industry, sector or geography. All KPIs are equally weighted. Company selection into the index is based on the level of organizational transparency as quantified by the 6 KPIs. Examples of reasons why companies did not make the index include: 1. KPI score not greater than 60% 2. Market cap less than $1 billion on a 30-day moving average basis 3. No company website 4. In an excluded industry 4. Not listed on a U.S stock exchange and 5. Not yet IPOed or IPOed less than 40 days.
+
+##### Ref
+[fact sheet](https://transparencyinvest.com/transparency-index/transparency-index-fact-sheet/)
