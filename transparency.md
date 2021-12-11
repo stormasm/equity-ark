@@ -16,3 +16,4 @@ The index methodology does not overweight or underweight any particular industry
 
 ##### Ref
 * [fact sheet](https://transparencyinvest.com/transparency-index/transparency-index-fact-sheet/)
+* [transparency definition](https://www.montesquieu-instituut.nl/9353000/1/j4nvih7l3kb91rw_j9vvj72dlowskug/vjclg3i5c7dc/f=/artikel_johan_graafland.pdf)
