@@ -15,4 +15,4 @@ Using an archive back test, the number of transparent companies varied each year
 The index methodology does not overweight or underweight any particular industry, sector or geography. All KPIs are equally weighted. Company selection into the index is based on the level of organizational transparency as quantified by the 6 KPIs. Examples of reasons why companies did not make the index include: 1. KPI score not greater than 60% 2. Market cap less than $1 billion on a 30-day moving average basis 3. No company website 4. In an excluded industry 4. Not listed on a U.S stock exchange and 5. Not yet IPOed or IPOed less than 40 days.
 
 ##### Ref
-[fact sheet](https://transparencyinvest.com/transparency-index/transparency-index-fact-sheet/)
+* [fact sheet](https://transparencyinvest.com/transparency-index/transparency-index-fact-sheet/)
